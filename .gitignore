@@ -2,7 +2,6 @@
 node_modules
 /dist
 #/release
-README.md
 # local env files
 .env.local
 .env.*.local
